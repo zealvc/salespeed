@@ -10,10 +10,10 @@ Your README file is normally the first entry point to your code. It should tell 
 
 **branch name is small letter only**
 - **Master branch**: production-ready state branch ( master )
-- **Hotfix branch**: naming convention ( hotfix/main-* ) *For first default branch only* or (hotfix/*-*)
-- **Release branch**: naming convention ( release/main-* ) *For first default branch only* or (release/*-*)
-- **Develop branch**: naming convention ( develop/main-* ) *For first default branch only* or (develop/*-*)
-- **Feature branch**: naming convention ( feature/main-* ) *For first default branch only* or (feature/*-*-* ) or (feature/frontend-*-*)
+- **Hotfix branch**: naming convention ( hotfix/main-<anything> ) *For first default branch only* or ( hotfix/<anything>-<anything> )
+- **Release branch**: naming convention ( release/main-<anything> ) *For first default branch only* or ( release/<anything>-<anything> )
+- **Develop branch**: naming convention ( develop/main-<anything> ) *For first default branch only* or ( develop/<anything>-<anything> )
+- **Feature branch**: naming convention ( feature/main-<anything> ) *For first default branch only* or ( feature/<anything>-<anything>-<anything> ) or (feature/frontend-<anything>-<anything> )
 
 ## Table of Contents
 
