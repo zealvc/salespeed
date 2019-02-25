@@ -15,7 +15,6 @@ Your README file is normally the first entry point to your code. It should tell 
 - Develop branch: naming convention ( develop/main-* ) *For first default branch only* or (develop/*-*)
 - Feature branch: naming convention ( feature/main-* ) *For first default branch only* or (feature/*-*-* ) or (feature/frontend-*-*)
 
-
 ## Table of Contents
 
 - [Background](#background)
@@ -43,8 +42,6 @@ To see how the specification has been applied, see the [example-readmes](example
 
 
 ## Maintainers
-
-[@xpcrts](https://github.com/Rxpcrts).
 
 ## Contributing
 
