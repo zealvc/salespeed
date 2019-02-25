@@ -9,11 +9,11 @@ Your README file is normally the first entry point to your code. It should tell 
 ## Gitflow branch naming convention and rule
 
 **branch name is small letter only**
-- Master branch: production-ready state branch ( master )
-- Hotfix branch: naming convention ( hotfix/main-* ) *For first default branch only* or (hotfix/*-*)
-- Release branch: naming convention ( release/main-* ) *For first default branch only* or (release/*-*)
-- Develop branch: naming convention ( develop/main-* ) *For first default branch only* or (develop/*-*)
-- Feature branch: naming convention ( feature/main-* ) *For first default branch only* or (feature/*-*-* ) or (feature/frontend-*-*)
+- **Master branch**: production-ready state branch ( master )
+- **Hotfix branch**: naming convention ( hotfix/main-* ) *For first default branch only* or (hotfix/*-*)
+- **Release branch**: naming convention ( release/main-* ) *For first default branch only* or (release/*-*)
+- **Develop branch**: naming convention ( develop/main-* ) *For first default branch only* or (develop/*-*)
+- **Feature branch**: naming convention ( feature/main-* ) *For first default branch only* or (feature/*-*-* ) or (feature/frontend-*-*)
 
 ## Table of Contents
 
