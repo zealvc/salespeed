@@ -6,4 +6,4 @@
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © Salespeed team
