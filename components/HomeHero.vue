@@ -8,11 +8,19 @@
     >
       <v-layout>
         <v-flex>
-          <v-carousel hide-controls height="700px">
+          <v-carousel
+            hide-controls
+            vertical="true"
+            height="700px"
+            interval="8000"
+            reverse="true"
+
+          >
             <v-carousel-item
               v-for="(item,i) in items"
               :key="i"
               :src="item.src"
+              reverse-transition="fade"
             ></v-carousel-item>
           </v-carousel>
           </v-flex>
