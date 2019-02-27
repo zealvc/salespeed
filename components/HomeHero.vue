@@ -23,7 +23,8 @@
               reverse-transition="fade"
             ></v-carousel-item>
           </v-carousel>
-          </v-flex>
+
+        </v-flex>
       </v-layout>
     </v-container>
   </span>

@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import HomeHero from '../components/HomeHero'
 import HomeDetails from '../components/HomeDetails'
+import HomeHero from '../components/HomeHero'
 export default {
   components: {
     HomeDetails,

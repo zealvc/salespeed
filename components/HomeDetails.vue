@@ -5,13 +5,17 @@
     <v-container
       class="blue-grey--text text--darken-3"
     />
+    <FeaturesCard/>
   </v-container>
 </template>
 
 <script>
+import FeaturesCard from './AppCards/FeaturesCard'
 export default {
   name: 'HomeDetails',
-  components: {}
+  components: {
+    FeaturesCard
+  }
 }
 </script>
 
