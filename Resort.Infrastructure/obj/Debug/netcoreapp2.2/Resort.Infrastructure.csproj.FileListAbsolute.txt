@@ -1,0 +1,36 @@
+D:\Mom\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.deps.json
+D:\Mom\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+D:\Mom\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+D:\Mom\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csprojAssemblyReference.cache
+D:\Mom\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Mom\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfoInputs.cache
+D:\Mom\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfo.cs
+D:\Mom\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+D:\Mom\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.deps.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csprojAssemblyReference.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfoInputs.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfo.cs
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.deps.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csprojAssemblyReference.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfoInputs.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfo.cs
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.deps.json
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csprojAssemblyReference.cache
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfoInputs.cache
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.AssemblyInfo.cs
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+E:\Project\Chrish_dev\ResortSite\Resort.Infrastructure\obj\Debug\netcoreapp2.2\Resort.Infrastructure.pdb

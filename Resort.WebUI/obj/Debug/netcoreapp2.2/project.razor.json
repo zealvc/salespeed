@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Development\\Web Development\\ASP.NET Core\\ResortSite\\Resort.WebUI\\Resort.WebUI.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

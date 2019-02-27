@@ -1,0 +1,53 @@
+D:\Mom\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.deps.json
+D:\Mom\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+D:\Mom\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+D:\Mom\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csprojAssemblyReference.cache
+D:\Mom\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csproj.CoreCompileInputs.cache
+D:\Mom\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfoInputs.cache
+D:\Mom\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfo.cs
+D:\Mom\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.dll
+D:\Mom\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.deps.json
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.json
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.dev.json
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csprojAssemblyReference.cache
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csproj.CoreCompileInputs.cache
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfoInputs.cache
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfo.cs
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Development\Web Development\Project\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.deps.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.dev.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csprojAssemblyReference.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csproj.CoreCompileInputs.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfoInputs.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfo.cs
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.deps.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.dev.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csprojAssemblyReference.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csproj.CoreCompileInputs.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfoInputs.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfo.cs
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.deps.json
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.json
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.runtimeconfig.dev.json
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csprojAssemblyReference.cache
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.csproj.CoreCompileInputs.cache
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfoInputs.cache
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.AssemblyInfo.cs
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Project\Chrish_dev\ResortSite\Resort.Domain\obj\Debug\netcoreapp2.2\Resort.Domain.pdb

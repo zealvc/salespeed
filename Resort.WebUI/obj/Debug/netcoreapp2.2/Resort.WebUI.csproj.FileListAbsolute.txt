@@ -1,0 +1,105 @@
+D:\Mom\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.deps.json
+D:\Mom\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.json
+D:\Mom\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.dev.json
+D:\Mom\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.dll
+D:\Mom\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.pdb
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csprojAssemblyReference.cache
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CoreCompileInputs.cache
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cache
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cs
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfoInputs.cache
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfo.cs
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorTargetAssemblyInfo.cache
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.dll
+D:\Mom\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.pdb
+<<<<<<< HEAD
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.deps.json
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.json
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.dev.json
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.dll
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.pdb
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.dll
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.pdb
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csprojAssemblyReference.cache
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CoreCompileInputs.cache
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cache
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cs
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfoInputs.cache
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfo.cs
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorTargetAssemblyInfo.cache
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CopyComplete
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.dll
+E:\Development\Web Development\Project\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.pdb
+=======
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.deps.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.dev.json
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csprojAssemblyReference.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CoreCompileInputs.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cs
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfoInputs.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfo.cs
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorTargetAssemblyInfo.cache
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CopyComplete
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Application.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Application.pdb
+D:\Resort Site Development\DB 4\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+>>>>>>> 931bd2418ffb4b5197f01b8131cb79661dc6c51a
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csprojAssemblyReference.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CoreCompileInputs.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cs
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfoInputs.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfo.cs
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.deps.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.dev.json
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Application.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.dll
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Application.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.pdb
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorTargetAssemblyInfo.cache
+E:\Development\Web Development\ASP.NET Core\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CopyComplete
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.deps.json
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.json
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.runtimeconfig.dev.json
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.dll
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.WebUI.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Application.dll
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.dll
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Infrastructure.dll
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.dll
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Application.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Domain.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Infrastructure.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\bin\Debug\netcoreapp2.2\Resort.Persistence.pdb
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csprojAssemblyReference.cache
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CoreCompileInputs.cache
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cache
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorAssemblyInfo.cs
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfoInputs.cache
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.AssemblyInfo.cs
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.RazorTargetAssemblyInfo.cache
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.csproj.CopyComplete
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.dll
+E:\Project\Chrish_dev\ResortSite\Resort.WebUI\obj\Debug\netcoreapp2.2\Resort.WebUI.pdb
